@@ -6,7 +6,8 @@ Moving from Excel and Visual Basics for Applications, there are two Python chall
 
 
 ## PyBank Instructions
-    In the PyBank folder, there are two folders: a resources folder with a financial dataset and an analysis folder with a text document containing the conclusions.
+    In the PyBank folder, there are two folders: a resources folder with a financial dataset 
+    and an analysis folder with a text document containing the conclusions.
 
     There is also a Python script entitled "main.py" The script analyzes the dataset to return the following values:
     * The total number of months
