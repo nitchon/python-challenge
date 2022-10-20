@@ -1,6 +1,4 @@
-# python-challenge
-Module 3 Challenge
-
+# Description
 
 Moving from Excel and Visual Basics for Applications, there are two Python challenges in this respository exploring real life scenarios exercising an arrary of Python tools.
 
